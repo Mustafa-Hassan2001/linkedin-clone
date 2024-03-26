@@ -3,7 +3,7 @@ import './App.css';
 import Header from './Header';
 import Sidebar from './Sidebar';
 import Feed from './Feed';
-import Login from './login';
+import Login from './Login';
 import { useSelector } from 'react-redux';
 import { Widgets } from '@material-ui/icons';
 
